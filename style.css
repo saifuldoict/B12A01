@@ -167,3 +167,35 @@ body {
     color: #000000;
     opacity: 50%;
 }
+.box{
+    max-width: 50px;
+}
+
+.reviews{
+    margin: 0 auto;
+    max-width: 80%;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.reviews_section{
+    max-width: 1140px;
+    margin: 0 auto; 
+}
+.reviews-section-title{
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    color: #252432;
+    padding: 40px;
+    line-height: 30px;
+}
+.reviews-section-box{
+ display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+.reviews-box{
+    max-width: 50px;
+}
