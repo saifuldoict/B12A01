@@ -26,6 +26,10 @@ body {
     margin: 0 auto;
     padding: 85px ;   
 }
+.logo{
+    cursor: pointer;
+    
+}
 .header_content {
     max-width: 905px;
     margin: 0 auto;
