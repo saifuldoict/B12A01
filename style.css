@@ -5,7 +5,7 @@
 }
 body {
     font-family: sans-serif; 
-    background-color: #afe1f5;
+    background-color: #f0f3f5;
 
 }
 .header {
@@ -89,11 +89,11 @@ body {
     
 }
 .left{
-    max-width:45%;
+    max-width:470px;
 }
 .right{
-    max-width:30%;
-    padding-right: 0px;
+    max-width:570px;
+    
 }
 
 
@@ -287,10 +287,10 @@ input{
 
 
 .left-side{
-    width: 30%;
+    width: 470px;
 }
 .right-side{
-    width: 60%;
+    width: 570px;
 }
 
  label {
@@ -315,7 +315,7 @@ input{
    }
 
    .footer{
-    background-color: whitesmoke;
+    background-color: white;
     max-width: 80%;
     margin: 0 auto;
    }
