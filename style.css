@@ -92,7 +92,8 @@ body {
     max-width:45%;
 }
 .right{
-    max-width:45%;
+    max-width:30%;
+    padding-right: 0px;
 }
 
 
@@ -256,3 +257,59 @@ body {
    border-radius: 40px;
     margin-bottom: 40px;
 }
+
+
+.action_section_title_touch{
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: bold;
+    color: #252432;
+}
+.form{
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-left: 120px;
+}
+.form_text{
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+input{
+    width: 100%;
+    border:1px solid rgb(180, 179, 179);
+    border-radius: 6px;
+    padding: 20px;  
+}
+
+
+
+.left-side{
+    width: 30%;
+}
+.right-side{
+    width: 60%;
+}
+
+ label {
+      font-weight: bold;
+    }
+
+    textarea {
+      width: 100%;
+      max-width: 500px;
+      height: 150px;
+      padding: 5px;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+      resize: vertical; 
+      font-size: 16px;
+      background-color: #fff;
+      box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.05);
+    }
+
+   .section_btn{
+    width: 100%;
+   }
